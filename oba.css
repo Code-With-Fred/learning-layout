@@ -1,0 +1,90 @@
+/* css section */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.oba{
+    width: 100%;
+    height: 100vh;
+    background: #efefef;
+    padding: 20px;
+}
+.oba .oba-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.oba .oba-1 img{
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.oba-content h2{
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: navy;
+    font-weight: 800;
+
+}
+.oba-content p{
+   
+    font-size: 20px;
+    color: #333;
+    font-weight: 500;
+}
+.one{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.two{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.three{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.cnttt{
+    margin-top: 15px;
+}
+/* ada section */
+.Our-Academic-Programs{
+    background: red;
+    height: 100vh;
+    width: 100%;
+}
+.Our-Academic-Programs .heading-cont{
+    text-align: center;
+    padding-top: 20px;
+}
+.Our-Academic-Programs .heading-cont h2{
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+}
+.Our-Academic-Programs .heading-cont p{
+ color: #333;
+ font-size: 20px;
+}
+.four-cont{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.four-cont .eze{
+    border: 1px solid black;
+}
+.four-cont .eze-1{
+    border: 1px solid black;
+}
+.four-cont .eze-2{
+    border: 1px solid black;
+}
+.four-cont .eze-3{
+    border: 1px solid black;
+}
